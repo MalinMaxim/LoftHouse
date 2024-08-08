@@ -9,4 +9,4 @@
 
 [Смотреть демо](https://malinmaxim.github.io/LoftHouse/)
 
-![preview img](/preview.png)
+
